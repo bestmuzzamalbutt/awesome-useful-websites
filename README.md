@@ -14,6 +14,7 @@ Most of these websites are gathered from:
 - [reddit.com/r/InternetIsBeautiful](https://www.reddit.com/r/InternetIsBeautiful/)
 - [news.ycombinator.com](https://news.ycombinator.com/)
 - [x.com/IndieRandWeb](https://x.com/IndieRandWeb)
+- [Smart Sleep Calculator](https://smartsleepcalc.com)
 
 <br>
 
